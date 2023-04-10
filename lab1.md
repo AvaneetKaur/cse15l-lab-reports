@@ -1,3 +1,5 @@
+**LAB REPORT 1**
+
 **Installing VScode**
 ![Image](Installing_VScode.png)
 * To install VScode I used the link provided in the week1 lab intructions.
