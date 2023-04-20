@@ -2,7 +2,7 @@
 
 **Installing VScode**
 ![Image](Installing_VScode.png)
-* To install VScode I used the link provided in the week1 lab intructions.
+* To install VScode I used the used this link [Link](https://code.visualstudio.com/).
 * After opening the VScode website I cliked the download button and selected MACos to install VScode.
 
 **Running Commands**
