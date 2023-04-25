@@ -21,4 +21,4 @@ public void testReverseInPlace1 () {
 ```
 
 Symptoms
-![Image](http://url/lab3_part2_symptoms)
+![Image](http://url/lab3_part2_symptoms.png)
