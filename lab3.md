@@ -46,15 +46,17 @@ class StringServer {
 * calls the main method which invokes the Handler class which executes `handleRequest()` and excecutes first if statement.
 * the argument of `handleRequest()` is `localhost:4000`.
 * no values change as the url does not have a path.
+
 ![Image](StringServer2.png)
 * calls the main method which invokes the Handler class which executes `handleRequest()` and excecutes else if statement.
 * the argument of `handleRequest()` is `localhost:4000/add-message?s=Hello`. Value of message[0] is set to "Hello" and str = message[0] + new line.
+
 ![Image](StringServer3.png)
 * calls the main method which invokes the Handler class which executes `handleRequest()` and excecutes else if statement.
 * the argument of `handleRequest()` is `localhost:4000/add-message?s=How are you?`. 
-* Value of message[0] = "How" 
-           message[1] = "are"
-           message[2] = "you?"
+* Value of * message[0] = "How" 
+           * message[1] = "are"
+           * message[2] = "you?"
 * value of str = "Hello" + new line + message[0] + message[1] + message[2] + new line.
 
 
