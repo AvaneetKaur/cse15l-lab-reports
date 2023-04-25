@@ -1,3 +1,55 @@
+**Part 1**
+Building StringServer
+```
+import java.io.IOException;
+import java.net.URI;
+
+class Handler implements URLHandler {
+    
+    String[] message = {};
+    String str = "";
+
+    public String handleRequest(URI url) {
+       
+        if(url.getPath().equals("/")){
+            return "Welcome to StringServer!";
+        }
+        else if (url.getPath().equals("/add-message")) {
+            message = (url.getQuery()).split("s=");
+            for(int i = 0; i < message.length; i+=1){
+                str = str + message[i];
+            }
+            str = str + "\n";
+            return str;
+        } 
+        else {
+            return "404 Not Found!";
+        }
+    }
+}
+
+class StringServer {
+    public static void main(String[] args) throws IOException {
+        if(args.length == 0){
+            System.out.println("Missing port number! Try any number between 1024 to 49151");
+            return;
+        }
+
+        int port = Integer.parseInt(args[0]);
+
+        Server.start(port, new Handler());
+    }
+}
+```
+
+![Image](StringServer1.png)
+![Image](StringServer2.png)
+![Image](StringServer3.png)
+![Image](StringServer4.png)
+![Image](StringServer5.png)
+![Image](StringServer6.png)
+
+
 **Part 2**
 
 Bug: one of the bugs in lab3 was in ArrayExamples.java class in the reverseInPlace() method.
