@@ -1,6 +1,6 @@
 # Researching `less` Command
 
-The `less` command is used to display contents of a file one screen at a time. The general syntax of this command is `less [options] file_path`.
+The `less` command is used to display contents of a file one screen at a time. The general syntax of this command is `less [options] file_path`. 
 
 Some of the few options for using this command are:-
 * `-W` highlights first new line after any forward movement. 
