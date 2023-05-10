@@ -12,6 +12,7 @@ This information is sourced from [phoenixnap](https://phoenixnap.com/kb/less-com
 
 ## Examples
 **`-W`**
+
 Example 1
 ![Image](-W11.png)
 ![Image](-W12.png)
@@ -27,15 +28,17 @@ After pressing space to move forward
 ![Image](-W23.png)
 
 **`-N`**
+
 Example 1
 ![Image](-N11.png)
-![Image](-N12.png)
+![Image](-N12.pdf.png)
 
 Example 2
 ![Image](-N21.png)
 ![Image](-N22.png)
 
 **`-F`**
+
 Example 1
 ![Image](-F11.png)
 ![Image](-F12.png)
@@ -45,6 +48,7 @@ Example 2
 ![Image](-F22.png)
 
 **`-p`**
+
 Example 1
 ![Image](-p11.png)
 ![Image](-p12.png)
