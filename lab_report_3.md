@@ -11,7 +11,7 @@ Some of the few options for using this command are:-
 This information is sourced from [phoenixnap](https://phoenixnap.com/kb/less-command-in-linux).
 
 ## Examples
-##`-W`
+## `less -W`
 
 Example 1
 ![Image](-W11.png)
@@ -30,7 +30,7 @@ After pressing space to move forward it highlights the first line after the last
 ![Image](-W23.png)
 
 
-##`-N`
+## `less -N`
 
 Example 1
 ![Image](-N11.png)
@@ -45,7 +45,7 @@ Opens the file with line numbers added to the begining of each line
 ![Image](-N22.png)
 
 
-##`-F`
+## `less -F`
 
 Example 1
 ![Image](-F11.png)
@@ -60,7 +60,7 @@ Does not open the file instead prints the contents of the file in the terminal
 ![Image](-F22.png)
 
 
-## `-p`
+## `less -p`
 
 Example 1
 ![Image](-p11.png)
