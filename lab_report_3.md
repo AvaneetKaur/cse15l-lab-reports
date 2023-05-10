@@ -15,33 +15,41 @@ This information is sourced from [phoenixnap](https://phoenixnap.com/kb/less-com
 Example 1
 ![Image](-W11.png)
 ![Image](-W12.png)
+
+After pressing space to move forward
 ![Image](-W13.png)
+
 Example 2
-![Image](http://-W21.png)
-![Image](http://-W22.png)
-![Image](http://-W23.png)
+![Image](-W21.png)
+![Image](-W22.png)
+
+After pressing space to move forward
+![Image](-W23.png)
 
 **`-N`**
 Example 1
-![Image](http://-N11.png)
-![Image](http://-N12.png)
+![Image](-N11.png)
+![Image](-N12.png)
+
 Example 2
-![Image](http://-N21.png)
-![Image](http://-N22.png)
+![Image](-N21.png)
+![Image](-N22.png)
 
 **`-F`**
 Example 1
-![Image](http://-F11.png)
-![Image](http://-F12.png)
+![Image](-F11.png)
+![Image](-F12.png)
+
 Example 2
-![Image](http://-F21.png)
-![Image](http://-F22.png)
+![Image](-F21.png)
+![Image](-F22.png)
 
 **`-p`**
 Example 1
-![Image](http://-p11.png)
-![Image](http://-p12.png)
+![Image](-p11.png)
+![Image](-p12.png)
+
 Example 2
-![Image](http://-p21.png)
-![Image](http://-p22.png)
+![Image](-p21.png)
+![Image](-p22.png)
 
