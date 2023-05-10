@@ -13,9 +13,9 @@ This information is sourced from [phoenixnap](https://phoenixnap.com/kb/less-com
 ## Examples
 **`-W`**
 Example 1
-![Image](http://-W11.png)
-![Image](http://-W12.png)
-![Image](http://-W13.png)
+![Image](-W11.png)
+![Image](-W12.png)
+![Image](-W13.png)
 Example 2
 ![Image](http://-W21.png)
 ![Image](http://-W22.png)
