@@ -1,15 +1,15 @@
 #Lab Report 4
 
 1. Copy the forked repository's url using `ctrl+c`
-2. open terminal in VS code
-3. type `ssh <course-specific-account>` `<enter>` to login to ieng6 account ![Image](lab7_1.png)
-4. type `git clone https://github.com/AvaneetKaur/lab7` `<enter>` to clone the repository to my account ![Image](lab7_2.png)
-5. type `ls` `<enter>` to list all the files and directories in my account
-6. type `cd lab7` `<enter>` to change directory to lab7 repository
-7. type `pwd` `<enter>` to check if directory was changed to lab7
-8. type `ls` `<enter>` to list the contents of lab7 directory ![Image](lab7_3.png)
-9. type `bash test.sh` `<enter>` to run the tests ![Image](lab7_4.png)
-10. type `vim List<tab>` to autocomplete to `vim ListExamples` then type `.j<tab>` to autocomple to `vim ListExamples.java` and press `<enter>`. This   will open the java file in vim. ![Image](lab7_5.png) ![Image](lab7_6.png)
+2. Open terminal in VS code
+3. Type `ssh <course-specific-account>` `<enter>` to login to ieng6 account ![Image](lab7_1.png)
+4. Type `git clone https://github.com/AvaneetKaur/lab7` `<enter>` to clone the repository to my account ![Image](lab7_2.png)
+5. Type `ls` `<enter>` to list all the files and directories in my account
+6. Type `cd lab7` `<enter>` to change directory to lab7 repository
+7. Type `pwd` `<enter>` to check if directory was changed to lab7
+8. Type `ls` `<enter>` to list the contents of lab7 directory ![Image](lab7_3.png)
+9. Type `bash test.sh` `<enter>` to run the tests ![Image](lab7_4.png)
+10. Type `vim List<tab>` to autocomplete to `vim ListExamples` then type `.j<tab>` to autocomple to `vim ListExamples.java` and press `<enter>`. This   will open the java file in vim. ![Image](lab7_5.png) ![Image](lab7_6.png)
 11. Type `/` to start the search then type "index1" and press `<enter>`. This will move the cursor to the first occurance of `index 1` after where ever you cursor is. ![Image](lab7_7.png)
 12. Press `nnnnnnnnn` to move the cursor to `index1` in the final while loop. ![Image](lab7_8.png)
 13. Press `e` to move the cursor at the end of `index1`. ![Image](lab7_9.png)
