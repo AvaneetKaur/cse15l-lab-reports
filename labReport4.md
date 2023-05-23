@@ -1,4 +1,4 @@
-#Lab Report 4
+# Lab Report 4
 
 1. Copy the forked repository's url using `ctrl+c`
 2. Open terminal in VS code
