@@ -6,7 +6,7 @@
 4. Type `git clone https://github.com/AvaneetKaur/lab7` `<enter>` to clone the repository to my account ![Image](lab7_2.png)
 5. Type `ls` `<enter>` to list all the files and directories in my account
 6. Type `cd lab7` `<enter>` to change directory to lab7 repository
-7. Type `pwd` `<enter>` to check if directory was changed to lab7
+7. Type `pwd` `<enter>` to check if directory was changed to lab7 
 8. Type `ls` `<enter>` to list the contents of lab7 directory ![Image](lab7_3.png)
 9. Type `bash test.sh` `<enter>` to run the tests ![Image](lab7_4.png)
 10. Type `vim List<tab>` to autocomplete to `vim ListExamples` then type `.j<tab>` to autocomple to `vim ListExamples.java` and press `<enter>`. This   will open the java file in vim. ![Image](lab7_5.png) ![Image](lab7_6.png)
