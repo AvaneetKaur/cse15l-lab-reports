@@ -21,6 +21,6 @@
 19. Type `bash test.sh` to run the tests again. ![Image](lab7_16.png)
 20. Type `git add ListExamples.java` to add this java to to be commited
 21. Type `git commit -m "index1 changed to index2 in final loop of merge"` to commit the change and write a message explaining the change. ![Image](lab7_17.png)
-22. I don't know how to push I tries and it said this ![Image](lab7_18.png)
+22. I don't know how to push I tried and it said this ![Image](lab7_18.png)
 
 
